@@ -21,6 +21,6 @@ jobs:
               run: npm install
             - run: node app.js
               env:
-                JD_COOKIE: ${{ secrets.JD_COOKIE }}
+                JD_COOKIE: ${{ __jda=122270672.1607383828107129960617.1607383828.1607383828.1607383828.1; __jdv=122270672%7C10.10.10.11%7C-%7Creferral%7C-%7C1607383828118; __jdc=122270672; mba_muid=1607383828107129960617; shshshfp=eb945efa1200a543c465cd6b9ea0e7df; shshshfpa=8905bced-a276-a156-1ee6-094ffd5d33d4-1607383836; shshshsID=9d466e6412727135afcfb15a2234cbdc_1_1607383837519; shshshfpb=agzGqmz85Y5juzAA7VUcymQ%3D%3D; 3AB9D23F7A4B3C9B=GPHOQ4DB3ACQ3K7LZX5ZVUIIM34CKFIDJFNFITINIPTUPFGN4XER2LOCXDYFYPYGT47YUND3ZPHNZA5JDX6K3SOCRQ; jcap_dvzw_fp=355dcc0d1b6131383880afc95dc46fb9$926766541716; TrackerID=n0rEb4vseWgeSRBc7t8Ex3F4pA3F5r4knDg1Xk3RbB5NRipDTeNBVJc0E6DbE_KvnxQV0CQji5rsnS6CGbyYb8-L-I_AnGZJ0XbBKwPyVEM; pt_key=AAJfzyvEADBBBSRHprdhYmtFHR5FZDHLRGJ3It8pKSa5f6cIErBUhLJWxMEjRFObOx8z96bnnvM; pt_pin=anluoxi; pt_token=o7henllq; pwdt_id=anluoxi; sfstoken=tk01md7971d3fa8sM3gyeDJmdkRmYFnvqkDx7RrqF7GXi1Ven3o+APEaSiOJ7onTj2HSzll6orklOHPlmuGYuOXr+xMF; mobilev=html5; __jdb=122270672.3.1607383828107129960617|1.1607383828; mba_sid=16073838281544428429344860252.3; __jd_ref_cls=Mnpm_ComponentApplied;  }}
                 JD_COOKIE_2: ${{ secrets.JD_COOKIE_2 }} 
-                PUSH_KEY: ${{ secrets.PUSH_KEY }}
+                PUSH_KEY: ${{ SCU63849T05191e3880258f2c3e4cfb7a9c8b1ffb5d9dd82ce54fb }}
